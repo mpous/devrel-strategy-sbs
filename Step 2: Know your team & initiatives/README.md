@@ -57,7 +57,7 @@ Now that we have an overview of all initiatives, discuss them as a team one by o
 - Are there any road blocks?
 - ...
 
-Gather all feedback in the respective team initiative documents in the _notes_ section. To structure the retro, you may find it useful to adopt (Edward De Bono's Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats] approach.
+Gather all feedback in the respective team initiative documents in the _notes_ section. To structure the retro, you may find it useful to adopt (Edward De Bono's Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats) approach.
 
 ### 5. New ideas [1h]
 
